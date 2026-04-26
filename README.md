@@ -7,10 +7,10 @@ In emerging economies, financial exclusion driven by information asymmetry preve
 ![Methodology Diagram](method.jpeg)
 
 ## Key Results
-- Validation Accuracy: 89.52% (Improvement: +4.28%)
-- Overall Accuracy: 86.95% (Improvement: +4.63%)
-- AUC: 0.90 (+0.06%)
-- F1-Score: 0.86 (+0.05%)
+- Validation Accuracy: 89.52%
+- Overall Accuracy: 86.95%
+- AUC: 0.90
+- F1-Score: 0.86
 
 ## Conclusion
 This research developed a three-step computational framework that bridges the gap between data-abundant banking systems and low-resource microfinance settings. The Transfer Learning model outperformed the baseline, and Explainable AI provided transparency.
